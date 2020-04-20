@@ -1,1 +1,7 @@
-
+name: CompassMode
+main: CompassMode\Amace\main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+author: Amace
+description: コンパスでブロックをタップすると、Gamemodeがサバイバルとクリエイティブで切り替わります。
